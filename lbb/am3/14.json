@@ -3,21 +3,21 @@
   "data": {
     "syllables": {
       "basic": [
- [    "V",    "V",    "V",    "V",   "VC",   "VC" ],
- [   "VC",   "VC",   "VC",   "VC",   "VC",   "VC" ],
- [   "VC",   "VC",   "VC",   "VC",   "VC",   "VC" ],
- [   "CV",   "CV",   "CV",   "CV",  "CVC",  "CVC" ],
- [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ],
- [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ]
- ],
- "alternate": [
- [   "CV",   "CV",   "CV",   "CV",   "CV",   "CV" ],
- [   "CV",   "CV",   "CV",   "CV",   "CV",   "CV" ],
- [   "CV",   "CV",   "CV",   "CV",   "CV",   "CV" ],
- [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ],
- [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ],
- [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ]
- ]
+           [    "V",    "V",    "V",    "V",   "VC",   "VC" ],
+           [   "VC",   "VC",   "VC",   "VC",   "VC",   "VC" ],
+           [   "VC",   "VC",   "VC",   "VC",   "VC",   "VC" ],
+           [   "CV",   "CV",   "CV",   "CV",  "CVC",  "CVC" ],
+           [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ],
+           [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ]
+           ],
+      "alternate": [
+           [   "CV",   "CV",   "CV",   "CV",   "CV",   "CV" ],
+           [   "CV",   "CV",   "CV",   "CV",   "CV",   "CV" ],
+           [   "CV",   "CV",   "CV",   "CV",   "CV",   "CV" ],
+           [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ],
+           [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ],
+           [  "CVC",  "CVC",  "CVC",  "CVC",  "CVC",  "CVC" ]
+         ]
     },
     "phonemes": {
       "initial_consonant": [
