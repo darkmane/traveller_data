@@ -1,7 +1,7 @@
 {
   "title": "K'kree word generation",
   "data": {
-    "syllalbles": {
+    "syllables": {
       "initial": [
 [   "V",   "V",   "V",  "CV",  "CV",  "CV"],
         [  "CV",  "CV",  "CV",  "CV",  "CV",  "CV"],
