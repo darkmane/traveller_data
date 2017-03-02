@@ -21,7 +21,7 @@ The JSON data. Not all tables are simple matricies. On the page they look like t
 For example the "Prior Service" table (lbb/b01/14.1.json) could be a series of arrays, 1 for each row but logically it should be a series of objects, 1 for each column.
 
 ## Naming convention
-Please group the data by generation of Traveller (LBB == original traveller, MT = MegaTraveller and T5 = Traveller 5th ed), then book and page number. If there are multiple tables on a page number them left to right, top to bottom.
+Please group the data by generation of Traveller (LBB == original traveller and T5 = Traveller 5th ed), then book and page number. If there are multiple tables on a page number them left to right, top to bottom.
 
 eg: lbb/b01/14.1/json
 Original Traveller, Book 1 (Characters and Combat), pg 14, table 1 (Prior Service Table)
